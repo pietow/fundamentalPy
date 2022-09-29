@@ -1,4 +1,6 @@
 # fundamentalPy
-research on mkdir -p 
-recreate the folder structure
-try to be as concise as possible
+Research on mkdir -p.
+
+Recreate the repositorie's folder structure.
+
+Try to be as concise as possible.
